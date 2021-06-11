@@ -32,9 +32,11 @@
 ![image](https://user-images.githubusercontent.com/71162232/121665830-95876f00-cae3-11eb-9ca8-c386f8e5efb2.png)
 
 3. Test Accuracy
+
 ![image](https://user-images.githubusercontent.com/71162232/121665880-a46e2180-cae3-11eb-80d1-fb2ec1aa7dd2.png)
 
 4.  Images and corresponding probability that predicted Right
+
 ![image](https://user-images.githubusercontent.com/71162232/121665909-ab952f80-cae3-11eb-91b2-2f6f98fc0a9e.png)
 
 5. Images and corresponding probability that predicted Wrong
